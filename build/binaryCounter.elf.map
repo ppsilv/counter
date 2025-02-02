@@ -184,7 +184,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_line    0x00000000      0x3f1 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
- .debug_str     0x00000000      0x3c8 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
+ .debug_str     0x00000000      0x3a9 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_frame   0x00000000       0x28 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.o
  .ARM.attributes
@@ -274,7 +274,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .debug_line    0x00000000      0x25c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
- .debug_str     0x00000000      0x213 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
+ .debug_str     0x00000000      0x1f4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.o
  .ARM.attributes
@@ -392,7 +392,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x14c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .debug_line    0x00000000      0xe6f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
- .debug_str     0x00000000      0x52a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
+ .debug_str     0x00000000      0x50b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .debug_frame   0x00000000       0xf4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.o
  .ARM.attributes
@@ -447,7 +447,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .debug_line    0x00000000      0x411 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
- .debug_str     0x00000000      0x2e5 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
+ .debug_str     0x00000000      0x2c6 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .debug_frame   0x00000000       0x50 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.o
  .ARM.attributes
@@ -513,7 +513,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x61 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .debug_line    0x00000000      0x4f6 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
- .debug_str     0x00000000      0x406 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
+ .debug_str     0x00000000      0x3e7 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .debug_frame   0x00000000       0x74 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.o
  .ARM.attributes
@@ -615,7 +615,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x64 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .debug_line    0x00000000      0x5d6 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
- .debug_str     0x00000000      0x3ba CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
+ .debug_str     0x00000000      0x39b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .debug_frame   0x00000000      0x124 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.o
  .ARM.attributes
@@ -657,7 +657,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x4a2 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .debug_line    0x00000000     0x13e6 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
- .debug_str     0x00000000      0x403 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
+ .debug_str     0x00000000      0x3e4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .debug_frame   0x00000000      0x178 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.o
  .ARM.attributes
@@ -690,7 +690,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x10f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .debug_line    0x00000000      0xfe3 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
- .debug_str     0x00000000      0x4a3 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
+ .debug_str     0x00000000      0x484 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .debug_frame   0x00000000       0xf0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.o
  .ARM.attributes
@@ -725,7 +725,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x259 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .debug_line    0x00000000      0xf9d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
- .debug_str     0x00000000      0xc0f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
+ .debug_str     0x00000000      0xbf0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .debug_frame   0x00000000       0xec CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.o
  .ARM.attributes
@@ -782,7 +782,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x34 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_line    0x00000000      0x31a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
- .debug_str     0x00000000      0x36e CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
+ .debug_str     0x00000000      0x34f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_frame   0x00000000       0x30 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.o
  .ARM.attributes
@@ -819,7 +819,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0xdf CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .debug_line    0x00000000      0x7ac CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
- .debug_str     0x00000000      0x3af CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
+ .debug_str     0x00000000      0x390 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .debug_frame   0x00000000       0xc0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.o
  .ARM.attributes
@@ -846,7 +846,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .debug_line    0x00000000       0x6d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
- .debug_str     0x00000000      0x1b0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
+ .debug_str     0x00000000      0x191 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.o
@@ -858,7 +858,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .debug_line    0x00000000       0x70 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
- .debug_str     0x00000000      0x1b3 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
+ .debug_str     0x00000000      0x194 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.o
@@ -892,7 +892,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x4f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .debug_line    0x00000000      0x49a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
- .debug_str     0x00000000      0x70c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
+ .debug_str     0x00000000      0x6ed CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.o
  .ARM.attributes
@@ -919,12 +919,12 @@ Discarded input sections
                 0x00000000       0x14 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_line    0x00000000       0xa6 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_line_str
-                0x00000000       0x94 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
+                0x00000000       0x75 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_info    0x00000000       0x23 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_abbrev  0x00000000       0x12 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
- .debug_str     0x00000000       0xa2 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
+ .debug_str     0x00000000       0x83 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.o
  .ARM.attributes
@@ -954,7 +954,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_line    0x00000000      0x31f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
- .debug_str     0x00000000      0x279 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
+ .debug_str     0x00000000      0x25a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .ARM.attributes
@@ -1140,7 +1140,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x5f3 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .debug_line    0x00000000     0x2d31 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
- .debug_str     0x00000000      0x535 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
+ .debug_str     0x00000000      0x516 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .debug_frame   0x00000000      0x44c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.o
  .ARM.attributes
@@ -1347,7 +1347,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x405 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .debug_line    0x00000000     0x259f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
- .debug_str     0x00000000      0x548 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
+ .debug_str     0x00000000      0x529 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .debug_frame   0x00000000      0x390 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.o
  .ARM.attributes
@@ -1389,7 +1389,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x49 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .debug_line    0x00000000      0x2a0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
- .debug_str     0x00000000      0x252 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
+ .debug_str     0x00000000      0x233 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .debug_frame   0x00000000       0x74 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.o
  .ARM.attributes
@@ -1495,7 +1495,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x439 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .debug_line    0x00000000     0x2e0b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
- .debug_str     0x00000000      0x710 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
+ .debug_str     0x00000000      0x6f1 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .debug_frame   0x00000000      0x3dc CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.o
  .ARM.attributes
@@ -1518,7 +1518,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_line    0x00000000      0x280 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
- .debug_str     0x00000000      0x399 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
+ .debug_str     0x00000000      0x37a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .comment       0x00000000       0x46 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .ARM.attributes
@@ -3515,80 +3515,80 @@ LOAD linker stubs
  .debug_rnglists
                 0x000028ed      0x525 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
 
-.debug_line     0x00000000    0x16db2
- .debug_line    0x00000000      0x80f CMakeFiles/binaryCounter.dir/binaryCounter.c.o
- .debug_line    0x0000080f     0x1c8d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_line    0x0000249c      0x284 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_line    0x00002720      0x926 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
- .debug_line    0x00003046      0x4ca CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
- .debug_line    0x00003510      0x3b3 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_line    0x000038c3     0x170a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
- .debug_line    0x00004fcd      0x2de CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
- .debug_line    0x000052ab     0x1b1c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
- .debug_line    0x00006dc7     0x3124 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
- .debug_line    0x00009eeb     0x1d27 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
- .debug_line    0x0000bc12     0x1e04 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_line    0x0000da16      0x4f7 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
- .debug_line    0x0000df0d      0x33d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_line    0x0000e24a      0x477 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_line    0x0000e6c1      0x356 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_line    0x0000ea17      0x313 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
- .debug_line    0x0000ed2a      0x539 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_line    0x0000f263      0x55b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_line    0x0000f7be      0x107 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_line    0x0000f8c5      0x2a9 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_line    0x0000fb6e      0x3f8 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_line    0x0000ff66      0x4f2 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_line    0x00010458      0x66d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_line    0x00010ac5       0x61 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_line    0x00010b26      0x3b4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_line    0x00010eda      0x407 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_line    0x000112e1      0x195 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
- .debug_line    0x00011476       0x94 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_line    0x0001150a      0x1f0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_line    0x000116fa     0x1b88 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
- .debug_line    0x00013282       0xa5 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
- .debug_line    0x00013327      0x864 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_line    0x00013b8b     0x144c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
- .debug_line    0x00014fd7     0x1ddb CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
+.debug_line     0x00000000    0x16d74
+ .debug_line    0x00000000      0x7d1 CMakeFiles/binaryCounter.dir/binaryCounter.c.o
+ .debug_line    0x000007d1     0x1c8d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_line    0x0000245e      0x284 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_line    0x000026e2      0x926 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
+ .debug_line    0x00003008      0x4ca CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
+ .debug_line    0x000034d2      0x3b3 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_line    0x00003885     0x170a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
+ .debug_line    0x00004f8f      0x2de CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
+ .debug_line    0x0000526d     0x1b1c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
+ .debug_line    0x00006d89     0x3124 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
+ .debug_line    0x00009ead     0x1d27 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
+ .debug_line    0x0000bbd4     0x1e04 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_line    0x0000d9d8      0x4f7 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
+ .debug_line    0x0000decf      0x33d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_line    0x0000e20c      0x477 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_line    0x0000e683      0x356 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_line    0x0000e9d9      0x313 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_line    0x0000ecec      0x539 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_line    0x0000f225      0x55b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_line    0x0000f780      0x107 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_line    0x0000f887      0x2a9 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_line    0x0000fb30      0x3f8 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_line    0x0000ff28      0x4f2 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_line    0x0001041a      0x66d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_line    0x00010a87       0x61 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_line    0x00010ae8      0x3b4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_line    0x00010e9c      0x407 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_line    0x000112a3      0x195 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+ .debug_line    0x00011438       0x94 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_line    0x000114cc      0x1f0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_line    0x000116bc     0x1b88 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
+ .debug_line    0x00013244       0xa5 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_line    0x000132e9      0x864 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_line    0x00013b4d     0x144c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
+ .debug_line    0x00014f99     0x1ddb CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
 
-.debug_str      0x00000000     0x4ce1
- .debug_str     0x00000000     0x4ce1 CMakeFiles/binaryCounter.dir/binaryCounter.c.o
-                                0xd93 (size before relaxing)
- .debug_str     0x00004ce1      0xc8f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_str     0x00004ce1      0x21a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_str     0x00004ce1      0x39d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
- .debug_str     0x00004ce1      0x346 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
- .debug_str     0x00004ce1      0x259 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_str     0x00004ce1      0xa7d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
- .debug_str     0x00004ce1      0x225 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
- .debug_str     0x00004ce1      0x7b8 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
- .debug_str     0x00004ce1     0x11b5 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
- .debug_str     0x00004ce1      0xa00 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
- .debug_str     0x00004ce1      0x9af CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_str     0x00004ce1      0x478 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
- .debug_str     0x00004ce1      0x2a7 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_str     0x00004ce1      0x355 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_str     0x00004ce1      0x25c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_str     0x00004ce1      0x2ac CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
- .debug_str     0x00004ce1      0x7a0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_str     0x00004ce1      0x4b4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_str     0x00004ce1       0xa4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_str     0x00004ce1       0xa7 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_str     0x00004ce1       0xa9 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_str     0x00004ce1      0x2dc CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_str     0x00004ce1       0xaf CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_str     0x00004ce1       0xad CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_str     0x00004ce1       0xa7 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_str     0x00004ce1      0x2c1 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_str     0x00004ce1       0xad CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
- .debug_str     0x00004ce1       0xa4 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_str     0x00004ce1      0x455 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_str     0x00004ce1      0x4ef CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
- .debug_str     0x00004ce1       0x98 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
- .debug_str     0x00004ce1      0x73a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_str     0x00004ce1      0xade CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
- .debug_str     0x00004ce1     0x10f6 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
+.debug_str      0x00000000     0x4ca3
+ .debug_str     0x00000000     0x4ca3 CMakeFiles/binaryCounter.dir/binaryCounter.c.o
+                                0xd55 (size before relaxing)
+ .debug_str     0x00004ca3      0xc70 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_str     0x00004ca3      0x1fb CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_str     0x00004ca3      0x37e CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.o
+ .debug_str     0x00004ca3      0x327 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.o
+ .debug_str     0x00004ca3      0x23a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_str     0x00004ca3      0xa5e CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.o
+ .debug_str     0x00004ca3      0x206 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.o
+ .debug_str     0x00004ca3      0x799 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.o
+ .debug_str     0x00004ca3     0x1196 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.o
+ .debug_str     0x00004ca3      0x9e1 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.o
+ .debug_str     0x00004ca3      0x990 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_str     0x00004ca3      0x459 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.o
+ .debug_str     0x00004ca3      0x288 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_str     0x00004ca3      0x336 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_str     0x00004ca3      0x23d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_str     0x00004ca3      0x28d CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_str     0x00004ca3      0x781 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_str     0x00004ca3      0x495 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_str     0x00004ca3       0x85 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_str     0x00004ca3       0x88 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_str     0x00004ca3       0x8a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_str     0x00004ca3      0x2bd CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_str     0x00004ca3       0x90 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_str     0x00004ca3       0x8e CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_str     0x00004ca3       0x88 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_str     0x00004ca3      0x2a2 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_str     0x00004ca3       0x8e CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+ .debug_str     0x00004ca3       0x85 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_str     0x00004ca3      0x436 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_str     0x00004ca3      0x4d0 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.o
+ .debug_str     0x00004ca3       0x79 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_str     0x00004ca3      0x71b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_str     0x00004ca3      0xabf CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.o
+ .debug_str     0x00004ca3     0x10d7 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pio/pio.c.o
 
 .debug_frame    0x00000000     0x1c94
  .debug_frame   0x00000000       0x30 CMakeFiles/binaryCounter.dir/binaryCounter.c.o
@@ -3619,25 +3619,25 @@ LOAD linker stubs
  .debug_frame   0x00001c6c       0x28 /home/pdsilva/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-strlen-stub.o)
 
 .debug_line_str
-                0x00000000      0x36b
+                0x00000000      0x34c
  .debug_line_str
-                0x00000000      0x36b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
-                                 0x96 (size before relaxing)
+                0x00000000      0x34c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+                                 0x77 (size before relaxing)
  .debug_line_str
-                0x0000036b       0x99 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
+                0x0000034c       0x7a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.o
  .debug_line_str
-                0x0000036b       0x9b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+                0x0000034c       0x7c CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
  .debug_line_str
-                0x0000036b       0xa1 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+                0x0000034c       0x82 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
  .debug_line_str
-                0x0000036b       0x9f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+                0x0000034c       0x80 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
  .debug_line_str
-                0x0000036b       0x99 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+                0x0000034c       0x7a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
  .debug_line_str
-                0x0000036b       0x9f CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
+                0x0000034c       0x80 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.o
  .debug_line_str
-                0x0000036b       0x96 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+                0x0000034c       0x77 CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
  .debug_line_str
-                0x0000036b       0x8a CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
+                0x0000034c       0x6b CMakeFiles/binaryCounter.dir/home/pdsilva/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.o
  .debug_line_str
-                0x0000036b       0xc2 /home/pdsilva/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000034c       0xc2 /home/pdsilva/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)

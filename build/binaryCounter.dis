@@ -1,5 +1,5 @@
 
-/home/pdsilva/Projects/PicoExemplos/ExemplosArtigos/binaryCounter/build/binaryCounter.elf:     file format elf32-littlearm
+/home/pdsilva/Projects/tmp/counter/build/binaryCounter.elf:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
@@ -45,16 +45,16 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  20 .debug_rnglists 00002e12  00000000  00000000  00038760  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 21 .debug_line   00016db2  00000000  00000000  0003b572  2**0
+ 21 .debug_line   00016d74  00000000  00000000  0003b572  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 22 .debug_str    00004ce1  00000000  00000000  00052324  2**0
+ 22 .debug_str    00004ca3  00000000  00000000  000522e6  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 23 .debug_frame  00001c94  00000000  00000000  00057008  2**2
+ 23 .debug_frame  00001c94  00000000  00000000  00056f8c  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 24 .debug_line_str 0000036b  00000000  00000000  00058c9c  2**0
+ 24 .debug_line_str 0000034c  00000000  00000000  00058c20  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
-/home/pdsilva/Projects/PicoExemplos/ExemplosArtigos/binaryCounter/build/binaryCounter.elf:     file format elf32-littlearm
+/home/pdsilva/Projects/tmp/counter/build/binaryCounter.elf:     file format elf32-littlearm
 
 
 Disassembly of section .boot2:

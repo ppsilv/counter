@@ -39,16 +39,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/pdsilva/Projects/PicoExemplos/ExemplosArtigos/binaryCounter/build/pico-sdk/tools/cmake_install.cmake")
+  include("/home/pdsilva/Projects/tmp/counter/build/pico-sdk/tools/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/pdsilva/Projects/PicoExemplos/ExemplosArtigos/binaryCounter/build/pico-sdk/src/cmake_install.cmake")
+  include("/home/pdsilva/Projects/tmp/counter/build/pico-sdk/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/pdsilva/Projects/PicoExemplos/ExemplosArtigos/binaryCounter/build/pico-sdk/docs/cmake_install.cmake")
+  include("/home/pdsilva/Projects/tmp/counter/build/pico-sdk/docs/cmake_install.cmake")
 endif()
 

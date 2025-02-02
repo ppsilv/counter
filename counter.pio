@@ -1,0 +1,18 @@
+.pio_version 0      // O valor zero indica que pode ser usado quaisquer hardware raspberry pi pico pois zero é o menor hardware
+
+.program counter      // Nome do programa
+
+.define SIZE    8   // Define o tamanho do dado a ser escrito na saida, em minhas pesquisas não achei menção a um registrador
+                    // portanto 
+
+/*
+    Lê repetidamente dados do tamanho igual a SIZE em TX FIFO, até que o TX FIFO esteja vazio
+    Os bits são lidos a partir do bit menos significativo.
+*/
+
+loop:
+    pull
+    out pins, SIZE
+    jmp loop
+
+

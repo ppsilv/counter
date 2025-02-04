@@ -5,6 +5,11 @@
 .define SIZE    8   // Define o tamanho do dado a ser escrito na saida, em minhas pesquisas não achei menção a um registrador
                     // portanto 
 
+    ;Inicializa os valores iniciais dos pinos.
+    pull
+    out pins, SIZE
+
+
 /*
     Lê repetidamente dados do tamanho igual a SIZE em TX FIFO, até que o TX FIFO esteja vazio
     Os bits são lidos a partir do bit menos significativo.

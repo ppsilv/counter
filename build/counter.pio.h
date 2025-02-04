@@ -13,21 +13,23 @@
 // ------- //
 
 #define counter_wrap_target 0
-#define counter_wrap 2
+#define counter_wrap 4
 #define counter_pio_version 0
 
 static const uint16_t counter_program_instructions[] = {
             //     .wrap_target
     0x80a0, //  0: pull   block                      
     0x6008, //  1: out    pins, 8                    
-    0x0000, //  2: jmp    0                          
+    0x80a0, //  2: pull   block                      
+    0x6008, //  3: out    pins, 8                    
+    0x0002, //  4: jmp    2                          
             //     .wrap
 };
 
 #if !PICO_NO_HARDWARE
 static const struct pio_program counter_program = {
     .instructions = counter_program_instructions,
-    .length = 3,
+    .length = 5,
     .origin = -1,
     .pio_version = counter_pio_version,
 #if PICO_PIO_VERSION > 0
